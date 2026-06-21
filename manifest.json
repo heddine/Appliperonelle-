@@ -1,0 +1,62 @@
+{
+  "name": "BailExpert",
+  "short_name": "BailExpert",
+  "description": "Générateur de contrats de bail ALUR — usage professionnel",
+  "start_url": "/HBHBail/",
+  "scope": "/HBHBail/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ff6600",
+  "theme_color": "#ff6600",
+  "lang": "fr",
+  "icons": [
+    {
+      "src": "/HBHBail/icon-48-3.png",
+      "sizes": "48x48",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/HBHBail/icon-72-2.png",
+      "sizes": "72x72",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/HBHBail/icon-96-3.png",
+      "sizes": "96x96",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/HBHBail/icon-144-2.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/HBHBail/icon-192-3.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/HBHBail/icon-192-3.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/HBHBail/icon-512-3.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/HBHBail/icon-512-3.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

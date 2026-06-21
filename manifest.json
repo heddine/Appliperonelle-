@@ -2,7 +2,7 @@
   "name": "BailExpert",
   "short_name": "BailExpert",
   "description": "Générateur de contrats de bail ALUR — usage professionnel",
-  "start_url": "/HBHBail/",
+  "start_url": "/gestion/",
   "scope": "/HBHBail/",
   "display": "standalone",
   "orientation": "portrait",
